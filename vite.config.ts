@@ -32,6 +32,7 @@ export default defineConfig({
       },
     },
   },
-  // GitHub Pages SPA 兜底
-  base: './',
+  // GitHub Pages 部署在 https://<user>.github.io/ai-tarot/ 子路径下，
+  // 所以 base 必须是绝对路径 '/ai-tarot/'。本地 dev 仍可通过根路径访问。
+  base: '/ai-tarot/',
 });
