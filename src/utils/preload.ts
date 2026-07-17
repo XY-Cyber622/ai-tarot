@@ -35,36 +35,10 @@ export function preloadCardImages(): Promise<PreloadResult> {
         img.decoding = 'async';
         img.onload = () => {
           ok.push(card.id);
-          // #region debug-point ip2
-          void fetch('http://127.0.0.1:7777/event', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-              sessionId: 'card-image-load-fail',
-              runId: 'pre-fix',
-              hypothesisId: 'H2',
-              msg: `[ip2] preload ok id=${card.id} src=${versioned(card.imageUrl)}`,
-              ts: Date.now(),
-            }),
-          }).catch(() => {});
-          // #endregion debug-point ip2
           resolve();
         };
-        img.onerror = (e) => {
+        img.onerror = () => {
           failed.push(card.id);
-          // #region debug-point ip2e
-          void fetch('http://127.0.0.1:7777/event', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-              sessionId: 'card-image-load-fail',
-              runId: 'pre-fix',
-              hypothesisId: 'H2',
-              msg: `[ip2e] preload FAIL id=${card.id} src=${versioned(card.imageUrl)} naturalWidth=${img.naturalWidth} naturalHeight=${img.naturalHeight} complete=${img.complete}`,
-              ts: Date.now(),
-            }),
-          }).catch(() => {});
-          // #endregion debug-point ip2e
           resolve(); // resolve anyway so the promise chain doesn't hang
         };
         img.src = versioned(card.imageUrl);

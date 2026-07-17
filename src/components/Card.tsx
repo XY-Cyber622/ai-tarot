@@ -201,7 +201,6 @@ export function Card({
                 alt={resolved.nameZh}
                 loading="eager"
                 decoding="async"
-                // #region debug-point ip3
                 onLoad={() => {
                   // Mark "loaded" FIRST so the 5s timeout sees it
                   // and doesn't clobber this successfully-loaded
@@ -211,50 +210,13 @@ export function Card({
                   // already given up on the network, ignore the
                   // event so we don't bounce back to retrying.
                   if (networkFailedRef.current) {
-                    // #region debug-point ip3
-                    void fetch('http://127.0.0.1:7777/event', {
-                      method: 'POST',
-                      headers: { 'Content-Type': 'application/json' },
-                      body: JSON.stringify({
-                        sessionId: 'card-image-load-fail',
-                        runId: 'pre-fix',
-                        hypothesisId: 'H3',
-                        msg: `[ip3] data-url loaded id=${resolved.id}`,
-                        ts: Date.now(),
-                      }),
-                    }).catch(() => {});
-                    // #endregion debug-point ip3
                     return;
                   }
-                  // #region debug-point ip3
-                  void fetch('http://127.0.0.1:7777/event', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                      sessionId: 'card-image-load-fail',
-                      runId: 'pre-fix',
-                      hypothesisId: 'H2',
-                      msg: `[ip3] card onLoad id=${resolved.id} src=${imageSrc} retry=${retryCount}`,
-                      ts: Date.now(),
-                    }),
-                  }).catch(() => {});
-                  // #endregion debug-point ip3
+                  // RWS image loaded successfully — nothing else
+                  // to do (loadedRef is already true, preventing
+                  // the 5s timeout from clobbering this image).
                 }}
-                // #endregion debug-point ip3
                 onError={() => {
-                  // #region debug-point ip3e
-                  void fetch('http://127.0.0.1:7777/event', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                      sessionId: 'card-image-load-fail',
-                      runId: 'pre-fix',
-                      hypothesisId: 'H3',
-                      msg: `[ip3e] card onError id=${resolved.id} attemptNonce=${retryCount} src=${imageSrc} networkFailed=${networkFailed}`,
-                      ts: Date.now(),
-                    }),
-                  }).catch(() => {});
-                  // #endregion debug-point ip3e
                   if (networkFailedRef.current) return; // safety
                   if (retryCount < 3) {
                     setRetryCount((n) => n + 1);
