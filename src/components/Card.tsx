@@ -126,8 +126,9 @@ export function Card({
     }
     // Cache-bust: each retry uses a unique query string so the
     // browser is forced to actually re-fetch (instead of returning
-    // a cached failure).
-    return `${resolved.imageUrl}?r=${retryCount}`;
+    // a cached failure). versioned() also prepends BASE_URL so
+    // the retry hits the same subpath as the initial attempt.
+    return versioned(`${resolved.imageUrl}?r=${retryCount}`);
   }, [resolved, isReversed, retryCount, networkFailed]);
 
   // Hard timeout fallback. Celtic Cross fires 10 simultaneous

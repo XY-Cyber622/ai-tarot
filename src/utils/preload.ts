@@ -81,9 +81,21 @@ export function preloadCardImages(): Promise<PreloadResult> {
 export function versioned(url: string): string {
   if (!url) return url;
   if (/^https?:\/\//i.test(url)) return url;
+  // Prepend Vite's BASE_URL so the same path works on both
+  //   - dev (BASE_URL = '/')         → /cards/major-00.png
+  //   - GitHub Pages subpath         → /ai-tarot/cards/major-00.png
+  // /cards/... in source is the canonical path; BASE_URL is
+  // the deployment prefix.
+  const path = url.startsWith('/') ? url.slice(1) : url;
+  const withBase = import.meta.env.BASE_URL + path;
   // Strip any existing ?v= before appending ours.
-  const base = url.split('?')[0];
-  return `${base}?v=${ASSET_VERSION}`;
+  const [base, existingQuery] = withBase.split('?');
+  if (!existingQuery) return `${base}?v=${ASSET_VERSION}`;
+  // Preserve unrelated query params (rare for our assets) and
+  // only update/replace `v=`.
+  const params = new URLSearchParams(existingQuery);
+  params.set('v', String(ASSET_VERSION));
+  return `${base}?${params.toString()}`;
 }
 
 /**

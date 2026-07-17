@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="theme-color" content="#070512" />
     <meta name="description" content="AI Tarot · 像仪式又像冥想的塔罗占卜，每次抽牌都是一次与内心的对话" />
+    <!--
+      Prevent GitHub Pages CDN / browser from caching this HTML.
+      Without these, a user who visited an older deployment
+      (before we wired up basename / asset paths) would keep
+      loading the broken bundle even after we fixed it.
+      Stronger than `Cache-Control: max-age=0` because most
+      static hosts honor `<meta http-equiv>` for the index.
+    -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
     <title>AI Tarot · 像仪式又像冥想</title>
   </head>
   <body>
