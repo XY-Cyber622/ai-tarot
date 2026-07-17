@@ -15,6 +15,7 @@ if (!rootEl) {
 createRoot(rootEl).render(
   <StrictMode>
     <BrowserRouter
+      basename="/ai-tarot"
       future={{
         v7_startTransition: true,
         v7_relativeSplatPath: true,
