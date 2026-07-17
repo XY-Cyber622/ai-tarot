@@ -1,0 +1,33 @@
+.logo {
+  display: inline-block;
+  filter: drop-shadow(0 0 24px var(--color-gold-glow));
+}
+
+.animated {
+  animation: logoBreath 4s ease-in-out infinite;
+}
+
+.starGroup {
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+.animated .starGroup {
+  animation: logoSpin 20s linear infinite;
+}
+
+@keyframes logoBreath {
+  0%, 100% {
+    filter: drop-shadow(0 0 16px var(--color-gold-glow));
+    transform: scale(1);
+  }
+  50% {
+    filter: drop-shadow(0 0 32px var(--color-gold-primary));
+    transform: scale(1.04);
+  }
+}
+
+@keyframes logoSpin {
+  from { transform: translate(50px, 50px) rotate(0deg); }
+  to { transform: translate(50px, 50px) rotate(360deg); }
+}

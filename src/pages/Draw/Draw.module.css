@@ -1,0 +1,315 @@
+/* === Page === */
+.page {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--page-padding) var(--page-padding-mobile);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  width: 100%;
+}
+
+.progress {
+  max-width: 480px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* === Stage: the absolute-positioned canvas where 22 cards live === */
+.stage {
+  position: relative;
+  width: 100%;
+  height: 580px;
+  margin: var(--space-4) 0;
+  perspective: 1400px;
+}
+
+/* Celtic Cross (10 cards) needs a taller stage to keep the bottom
+   "below / 潜意识" card (y_stage ≈ 41) clear of the fan (y=75). */
+.stage[data-spread='celtic-cross'] {
+  height: 720px;
+}
+
+/* === Slot position labels (过去/现在/未来) === */
+.labels {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.slotLabel {
+  position: absolute;
+  /* `top` is set inline from the JS so each label can sit just above
+     its card. The inline style overrides this. */
+  top: 0;
+  transform: translate(-50%, 0);
+  font-family: var(--font-serif);
+  font-size: var(--text-sm);
+  color: var(--color-gold-primary);
+  letter-spacing: var(--tracking-wide);
+  text-shadow: 0 0 8px var(--color-gold-glow);
+  white-space: nowrap;
+  opacity: 0.85;
+  transition: color 0.3s ease-out;
+}
+
+/* Orientation suffix appended after the card is revealed.
+   Default (正位) inherits gold; reversed is amber-warm to signal
+   "blocked / internalized energy" without being alarmist. */
+.slotOrientation {
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-wide);
+  opacity: 0.85;
+}
+
+.slotLabelReversed {
+  color: #d4a04a; /* warmer amber for reversed */
+}
+
+.slotLabelReversed .slotOrientation {
+  text-shadow: 0 0 6px rgba(212, 160, 74, 0.6);
+}
+
+/* === Placed card (either in fan or in slot) === */
+.placed {
+  position: absolute;
+  /* Animate position changes (fan → slot) over FLY_DURATION_MS.
+     cubic-bezier gives a soft arc: ease out, then settle. */
+  transition:
+    left var(--fly-duration) cubic-bezier(0.65, 0, 0.35, 1),
+    top var(--fly-duration) cubic-bezier(0.65, 0, 0.35, 1),
+    transform var(--fly-duration) cubic-bezier(0.65, 0, 0.35, 1);
+  will-change: left, top, transform;
+  --fly-duration: 700ms;
+}
+
+.cardInner {
+  position: relative;
+  /* Hover lift happens on the inner so it doesn't fight with the
+     placement transform on the outer wrapper. */
+  transition: transform 0.22s ease-out, filter 0.22s ease-out;
+}
+
+/* === Fan card === */
+.fan {
+  cursor: pointer;
+  animation: fanBreath 3.5s ease-in-out infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes fanBreath {
+  0%, 100% { filter: brightness(1); }
+  50% { filter: brightness(1.05) drop-shadow(0 0 8px rgba(212, 175, 55, 0.15)); }
+}
+
+/* Hover (PC): lift the card slightly and brighten */
+.fan:hover .cardInner,
+.fan:focus-visible .cardInner {
+  transform: translateY(-14px) scale(1.08);
+  filter: brightness(1.15) drop-shadow(0 8px 16px rgba(212, 175, 55, 0.35));
+  z-index: 9999;
+}
+
+/* Active (pressed): subtle push down */
+.fan:active .cardInner {
+  transform: translateY(-6px) scale(1.02);
+  transition: transform 0.08s ease-out;
+}
+
+/* Touch devices: rely on :active as the highlight (no hover) */
+@media (hover: none) {
+  .fan:active .cardInner {
+    transform: translateY(-10px) scale(1.05);
+  }
+}
+
+/* === Slot card (placed, waiting to be flipped) === */
+.slot {
+  /* No special cursor — the Card's onClick handles reveal. */
+}
+
+/* The next card to reveal gets a pulsing glow + lift on hover. */
+.revealable {
+  animation: revealHint 2.2s ease-in-out infinite;
+}
+
+@keyframes revealHint {
+  0%, 100% { filter: brightness(1); }
+  50% { filter: brightness(1.08) drop-shadow(0 0 14px rgba(212, 175, 55, 0.45)); }
+}
+
+.revealable:hover .cardInner,
+.revealable:focus-visible .cardInner {
+  transform: translateY(-12px) scale(1.06);
+  filter: brightness(1.15) drop-shadow(0 10px 20px rgba(212, 175, 55, 0.4));
+}
+
+.revealable:active .cardInner {
+  transform: translateY(-6px) scale(1.02);
+  transition: transform 0.08s ease-out;
+}
+
+@media (hover: none) {
+  .revealable:active .cardInner {
+    transform: translateY(-8px) scale(1.04);
+  }
+}
+
+/* === Complete halo (visible after all 3 picked) === */
+.completeHalo {
+  position: absolute;
+  left: 50%;
+  top: 22%;
+  width: 60%;
+  height: 240px;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(
+    ellipse at center,
+    rgba(212, 175, 55, 0.18) 0%,
+    rgba(212, 175, 55, 0) 70%
+  );
+  pointer-events: none;
+  z-index: 1;
+  animation: haloPulse 3s ease-in-out infinite;
+}
+
+@keyframes haloPulse {
+  0%, 100% { opacity: 0.6; transform: translate(-50%, -50%) scale(1); }
+  50% { opacity: 1; transform: translate(-50%, -50%) scale(1.08); }
+}
+
+/* === Hint & actions === */
+.hint {
+  text-align: center;
+  font-family: var(--font-serif);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  letter-spacing: var(--tracking-wide);
+  margin: 0;
+  min-height: 1.5em;
+  animation: fadeIn 0.4s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* === Ceremonial "翻开下一张" button ===
+   Lives outside the stage at a fixed spot, so the user never has to
+   chase the bottom card across spreads. Big, gold, glowing. */
+.revealButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-4);
+  align-self: center;
+  padding: var(--space-4) var(--space-8);
+  background: linear-gradient(
+    160deg,
+    rgba(212, 175, 55, 0.18) 0%,
+    rgba(212, 175, 55, 0.06) 100%
+  );
+  border: 1.5px solid var(--color-gold-primary);
+  border-radius: var(--radius-pill);
+  color: var(--color-gold-primary);
+  font-family: var(--font-serif);
+  font-size: var(--text-lg);
+  letter-spacing: var(--tracking-wider);
+  cursor: pointer;
+  box-shadow: var(--shadow-gold);
+  animation: revealButtonPulse 2.4s ease-in-out infinite;
+  transition: transform 0.18s ease-out, box-shadow 0.18s ease-out;
+}
+
+.revealButton:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: var(--shadow-gold-strong);
+}
+
+.revealButton:active {
+  transform: translateY(0) scale(0.98);
+  transition: transform 0.06s ease-out;
+}
+
+.revealButton:focus-visible {
+  outline: 2px solid var(--color-gold-primary);
+  outline-offset: 4px;
+}
+
+@keyframes revealButtonPulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(212, 175, 55, 0.35);
+  }
+  50% {
+    box-shadow: 0 0 0 12px rgba(212, 175, 55, 0);
+  }
+}
+
+.revealButtonKey {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  height: 36px;
+  padding: 0 var(--space-2);
+  background: var(--color-gold-primary);
+  color: var(--color-bg-base);
+  border-radius: var(--radius-md);
+  font-family: var(--font-mono);
+  font-size: var(--text-base);
+  font-weight: 700;
+  letter-spacing: 0;
+  box-shadow: 0 0 8px rgba(212, 175, 55, 0.6);
+}
+
+.revealButtonLabel {
+  font-weight: 500;
+  text-shadow: 0 0 8px var(--color-gold-glow);
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-2);
+}
+
+/* === Mobile: shrink fan, taller stage, smaller labels === */
+@media (max-width: 600px) {
+  .stage {
+    height: 620px;
+  }
+
+  /* Shrink the entire fan so 22 cards fit on a phone screen */
+  .fan .cardInner {
+    transform: scale(0.62);
+  }
+  .fan:hover .cardInner,
+  .fan:focus-visible .cardInner {
+    transform: scale(0.62) translateY(-10px);
+  }
+  .fan:active .cardInner {
+    transform: scale(0.62) translateY(-6px);
+  }
+
+  .slotLabel {
+    font-size: var(--text-xs);
+  }
+
+  /* On mobile the key badge would crowd the label, hide it.
+     Keyboard shortcuts still work, the hint text tells the user. */
+  .revealButtonKey {
+    display: none;
+  }
+  .revealButton {
+    font-size: var(--text-base);
+    padding: var(--space-3) var(--space-6);
+  }
+}

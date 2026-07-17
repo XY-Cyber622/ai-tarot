@@ -1,0 +1,33 @@
+.page {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--page-padding) var(--page-padding-mobile);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+  width: 100%;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-4);
+}
+
+@media (min-width: 720px) {
+  .list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-2);
+}

@@ -1,0 +1,18 @@
+/* === Result page layout (delegates body to <ReadingView />) === */
+.page {
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding-block: var(--space-6) var(--space-12);
+  position: relative;
+  z-index: 1;
+}
+
+.actionBar {
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: var(--space-10);
+  padding-top: var(--space-6);
+  border-top: 1px solid var(--color-border-default);
+}

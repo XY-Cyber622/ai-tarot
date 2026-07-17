@@ -1,0 +1,75 @@
+.bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background-color: var(--color-bg-base);
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.radial {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    ellipse at center,
+    var(--color-bg-radial-center) 0%,
+    var(--color-bg-radial-edge) 70%
+  );
+}
+
+.halo {
+  position: absolute;
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  filter: blur(80px);
+  opacity: 0.5;
+  mix-blend-mode: screen;
+  animation: floatSlow 18s ease-in-out infinite;
+}
+
+.halo:nth-child(odd) {
+  animation-duration: 22s;
+  animation-direction: reverse;
+}
+
+.starTrails {
+  position: absolute;
+  inset: -10%;
+  background:
+    radial-gradient(1px 1px at 12% 18%, rgba(212, 175, 55, 0.4) 50%, transparent 51%),
+    radial-gradient(1px 1px at 82% 32%, rgba(245, 240, 232, 0.3) 50%, transparent 51%),
+    radial-gradient(1px 1px at 38% 76%, rgba(212, 175, 55, 0.35) 50%, transparent 51%),
+    radial-gradient(1px 1px at 65% 88%, rgba(155, 127, 224, 0.4) 50%, transparent 51%);
+  animation: drift 40s linear infinite;
+  opacity: 0.6;
+}
+
+.stars {
+  position: absolute;
+  inset: 0;
+}
+
+.star {
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 0 0 4px currentColor;
+}
+
+@media (max-width: 768px) {
+  .halo {
+    width: 200px;
+    height: 200px;
+    filter: blur(60px);
+  }
+  .starTrails {
+    opacity: 0.4;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .halo,
+  .starTrails {
+    animation: none;
+  }
+}

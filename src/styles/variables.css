@@ -1,0 +1,141 @@
+:root {
+  /* === Color Palette: Cosmic Mystic === */
+  /* Backgrounds */
+  --color-bg-base: #070512;
+  --color-bg-radial-center: #1A1530;
+  --color-bg-radial-edge: #070512;
+  --color-bg-card: #1A1530;
+  --color-bg-overlay: rgba(7, 5, 18, 0.85);
+  --color-bg-elevated: #251D40;
+
+  /* Accent - Gold */
+  --color-gold-primary: #D4AF37;
+  --color-gold-ethereal: #E8C66A;
+  --color-gold-antique: #B8941F;
+  --color-gold-muted: rgba(212, 175, 55, 0.4);
+  --color-gold-glow: rgba(212, 175, 55, 0.2);
+
+  /* Accent - Mystic */
+  --color-violet-primary: #6B4FBB;
+  --color-violet-light: #9B7FE0;
+  --color-violet-deep: #3D2A6B;
+  --color-violet-glow: rgba(107, 79, 187, 0.3);
+
+  /* Text */
+  --color-text-primary: #F5F0E8;
+  --color-text-secondary: #B8B0A0;
+  --color-text-muted: #6F6850;
+  --color-text-inverse: #070512;
+  --color-text-gold: #D4AF37;
+
+  /* Borders */
+  --color-border-subtle: rgba(212, 175, 55, 0.15);
+  --color-border-default: rgba(212, 175, 55, 0.3);
+  --color-border-strong: rgba(212, 175, 55, 0.6);
+
+  /* Semantic */
+  --color-success: #6FA380;
+  --color-warning: #C9964B;
+  --color-error: #B85A5A;
+  --color-info: #6B8FBB;
+
+  /* === Typography === */
+  --font-sans: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', sans-serif;
+  --font-serif: 'Noto Serif SC', 'Songti SC', 'STSong', Georgia, serif;
+  --font-mystic: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  --font-mono: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+
+  --text-xs: 0.75rem;     /* 12px */
+  --text-sm: 0.875rem;    /* 14px */
+  --text-base: 1rem;      /* 16px */
+  --text-lg: 1.125rem;    /* 18px */
+  --text-xl: 1.25rem;     /* 20px */
+  --text-2xl: 1.5rem;     /* 24px */
+  --text-3xl: 1.875rem;   /* 30px */
+  --text-4xl: 2.25rem;    /* 36px */
+  --text-5xl: 3rem;       /* 48px */
+  --text-6xl: 3.75rem;    /* 60px */
+  --text-display: 4.5rem; /* 72px */
+
+  --leading-tight: 1.2;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.7;
+
+  --tracking-tight: -0.02em;
+  --tracking-normal: 0;
+  --tracking-wide: 0.05em;
+  --tracking-wider: 0.1em;
+
+  /* === Spacing === */
+  --space-0: 0;
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+  --space-24: 6rem;     /* 96px */
+
+  /* === Layout === */
+  --container-narrow: 720px;
+  --container-medium: 960px;
+  --container-wide: 1200px;
+  --page-padding: 64px;
+  --page-padding-mobile: 24px;
+
+  /* === Radius === */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+  --radius-pill: 9999px;
+  --radius-circle: 50%;
+
+  /* === Shadows === */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.6);
+  --shadow-gold: 0 0 24px rgba(212, 175, 55, 0.3);
+  --shadow-gold-strong: 0 0 32px rgba(212, 175, 55, 0.5);
+  --shadow-violet: 0 0 32px rgba(107, 79, 187, 0.4);
+  --shadow-card: 0 8px 32px rgba(0, 0, 0, 0.5), 0 0 0 1.5px var(--color-gold-primary);
+
+  /* === Easing === */
+  --ease-mystic: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-soft: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-meditate: cubic-bezier(0.7, 0, 0.3, 1);
+
+  /* === Duration === */
+  --dur-instant: 100ms;
+  --dur-quick: 200ms;
+  --dur-normal: 400ms;
+  --dur-slow: 600ms;
+  --dur-ritual: 1200ms;
+  --dur-meditation: 3000ms;
+
+  /* === Z-index === */
+  --z-base: 1;
+  --z-elevated: 10;
+  --z-sticky: 100;
+  --z-overlay: 1000;
+  --z-modal: 2000;
+  --z-toast: 3000;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --page-padding: var(--page-padding-mobile);
+    --text-5xl: 2.25rem;
+    --text-6xl: 2.75rem;
+    --text-display: 3rem;
+  }
+}

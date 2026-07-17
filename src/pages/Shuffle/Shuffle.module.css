@@ -1,0 +1,105 @@
+.page {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--page-padding) var(--page-padding-mobile);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-8);
+  width: 100%;
+}
+
+.deckArea {
+  position: relative;
+  width: 200px;
+  height: 280px;
+  margin: var(--space-4) 0;
+}
+
+.deck {
+  position: absolute;
+  inset: 0;
+  perspective: 1200px;
+}
+
+.layer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 120px;
+  height: 195px;
+  margin: -97px 0 0 -60px;
+  background: linear-gradient(160deg, var(--color-violet-deep) 0%, var(--color-bg-base) 100%);
+  border: 1.5px solid var(--color-gold-primary);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  animation: cutCard 2.4s var(--ease-mystic) infinite;
+  transform-origin: center;
+  will-change: transform;
+}
+
+.halo {
+  position: absolute;
+  inset: -40px;
+  border-radius: 50%;
+  background: radial-gradient(
+    ellipse at center,
+    var(--color-gold-glow) 0%,
+    transparent 70%
+  );
+  animation: glow 3s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.phase {
+  font-family: var(--font-serif);
+  font-size: var(--text-xl);
+  color: var(--color-gold-primary);
+  letter-spacing: var(--tracking-wider);
+  text-align: center;
+  margin: 0;
+  text-shadow: 0 0 12px var(--color-gold-glow);
+  min-height: 1.6em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.phaseFade {
+  animation: phaseFade 700ms var(--ease-mystic);
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+}
+
+@keyframes cutCard {
+  0%, 100% {
+    transform: rotate(var(--rot, 0deg)) translateY(0);
+  }
+  20% {
+    transform: rotate(var(--rot, 0deg)) translateY(-30px) scale(1.05);
+  }
+  40% {
+    transform: rotate(calc(var(--rot, 0deg) - 12deg)) translateY(-40px) translateX(40px);
+  }
+  60% {
+    transform: rotate(calc(var(--rot, 0deg) - 12deg)) translateY(-30px) translateX(40px);
+  }
+  80% {
+    transform: rotate(var(--rot, 0deg)) translateY(0) scale(1);
+  }
+}
+
+@keyframes phaseFade {
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}

@@ -1,0 +1,184 @@
+.card {
+  position: relative;
+  perspective: 1200px;
+  display: inline-block;
+  transform-style: preserve-3d;
+  transition: transform var(--dur-normal) var(--ease-mystic);
+  border-radius: var(--radius-lg);
+  outline: none;
+}
+
+.card.hidden {
+  transform: rotateY(180deg);
+}
+
+.card.revealed {
+  transform: rotateY(0deg);
+}
+
+.card.revealed.reversed {
+  transform: rotateY(0deg) rotate(180deg);
+}
+
+.card.interactive {
+  cursor: pointer;
+}
+
+.card.interactive:hover {
+  transform: translateY(-4px) scale(1.02);
+}
+
+.card.interactive:hover.reversed {
+  transform: translateY(-4px) scale(1.02) rotate(180deg);
+}
+
+.card.interactive:focus-visible {
+  box-shadow: var(--shadow-gold-strong);
+}
+
+.inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  background: linear-gradient(145deg, var(--color-bg-elevated), var(--color-bg-card));
+}
+
+.front,
+.back {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.back {
+  transform: rotateY(180deg);
+  background: linear-gradient(160deg, var(--color-violet-deep) 0%, var(--color-bg-base) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card.faceDown .inner {
+  transform: rotateY(180deg);
+}
+
+.backPattern {
+  position: absolute;
+  inset: 8px;
+  border: 1.5px solid var(--color-gold-primary);
+  border-radius: var(--radius-md);
+  opacity: 0.4;
+}
+
+.backEmblem {
+  font-size: 3rem;
+  color: var(--color-gold-primary);
+  text-shadow: 0 0 16px var(--color-gold-glow);
+  animation: glow 3s ease-in-out infinite;
+}
+
+.frame {
+  position: absolute;
+  inset: 6px;
+  border: 1.5px solid var(--color-gold-primary);
+  border-radius: var(--radius-md);
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, var(--color-bg-card) 0%, var(--color-bg-elevated) 100%);
+}
+
+.imageWrap {
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: var(--radius-sm);
+  margin: 4px 4px 0 4px;
+  background: radial-gradient(ellipse at center, var(--color-violet-deep) 0%, var(--color-bg-base) 100%);
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Fallback (number + name) only shows when image fails to load.
+   The onError handler in Card.tsx adds the .imageFailed class to imageWrap. */
+.imageFallback {
+  position: absolute;
+  inset: 0;
+  display: none;          /* hidden by default */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(ellipse at center, var(--color-violet-deep) 0%, var(--color-bg-base) 100%);
+  color: var(--color-gold-primary);
+  text-shadow: 0 0 12px var(--color-gold-glow);
+}
+
+.imageWrap.imageFailed .imageFallback {
+  display: flex;
+}
+
+.fallbackNumber {
+  font-family: var(--font-mystic);
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.fallbackName {
+  font-family: var(--font-serif);
+  font-size: 1.1em;
+  margin-top: var(--space-2);
+  letter-spacing: var(--tracking-wide);
+}
+
+.label {
+  padding: var(--space-2) var(--space-1);
+  text-align: center;
+  background: var(--color-bg-overlay);
+  border-top: 1px solid var(--color-border-subtle);
+}
+
+.labelName {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: var(--text-sm);
+  color: var(--color-gold-primary);
+  font-weight: 600;
+  letter-spacing: var(--tracking-wide);
+}
+
+.labelEn {
+  display: block;
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  margin-top: 2px;
+  font-style: italic;
+}
+
+/* === Sizes === */
+.sm {
+  width: 80px;
+  height: 130px;
+}
+
+.md {
+  width: 120px;
+  height: 195px;
+}
+
+.lg {
+  width: 160px;
+  height: 260px;
+}

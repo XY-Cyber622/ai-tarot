@@ -1,0 +1,1126 @@
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784284893579}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=32ms", "failed": [], "ts": 1784284893610}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784284893649}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=3ms", "failed": [], "ts": 1784284893652}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784284897611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784284897612}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784284897615}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784284897616}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784284897616}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784284897617}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784284897617}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784284897617}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784284897617}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784284897617}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784284897618}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784284897618}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784284897618}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784284897619}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784284897619}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784284897619}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784284897619}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784284897619}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784284897619}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784284897619}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784284897621}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784284897621}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784284897621}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784284897621}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784284897621}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784284897622}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784284897622}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784284897622}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784284897622}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784284897622}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784284897623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784284897625}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784284897625}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784284897628}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784284897628}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784284897629}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784284897629}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784284897629}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=17ms", "failed": [], "ts": 1784284897629}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784284897629}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=18ms", "failed": [], "ts": 1784284897629}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[test] debug server reachable", "ts": 1700000000000}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285121362}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285121362}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285121370}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285121370}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285121370}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285121370}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285121371}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285121371}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285121372}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285121372}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285121372}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285121372}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285121372}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285121372}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285121374}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285121374}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285121374}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285121374}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285121375}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285121375}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285121375}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285121376}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285121380}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285121381}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285121381}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285121382}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285121382}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285121382}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285121382}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285121382}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285121382}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285121382}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285121383}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285121383}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285121384}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285121384}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285121384}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285121384}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285121385}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285121385}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285121385}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285121385}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285121385}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285121385}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285121387}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=26ms", "failed": [], "ts": 1784285121387}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285121387}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=25ms", "failed": [], "ts": 1784285121387}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285125672}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285125673}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285125676}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285125676}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285125677}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285125677}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285125677}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285125677}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285125677}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285125678}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285125678}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285125678}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285125678}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285125678}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285125678}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285125679}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285125683}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285125684}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285125684}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285125684}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285125684}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285125684}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285125684}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285125684}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285125685}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285125685}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285125685}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285125685}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285125686}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285125686}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285125686}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285125686}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285125686}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285125686}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285125687}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285125687}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285125687}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=15ms", "failed": [], "ts": 1784285125687}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285125687}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=14ms", "failed": [], "ts": 1784285125687}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285275982}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285275982}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285275987}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285275987}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285275987}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285275987}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285275988}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285275988}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285275989}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285275989}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285275989}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285275989}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285275989}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285275989}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285275990}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285275990}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285275990}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285275990}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285275990}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285275990}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285275990}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285275991}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285275991}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285275991}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285275994}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285275994}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285275994}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285275994}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285275994}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285275995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285275995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285275995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285275995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285275995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285275995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285275995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285275996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285275996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285275996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285275996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285275997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285275997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285275997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285275998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285275998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=17ms", "failed": [], "ts": 1784285275999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285275999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=17ms", "failed": [], "ts": 1784285275999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285300984}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285300984}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285300984}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285300984}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285300984}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285300985}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285300992}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285300993}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285300993}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285300993}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285300993}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285300993}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285300999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285300999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285300999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285301000}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285301000}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285301000}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285301004}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285301005}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285301005}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285301005}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285301005}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285301005}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285301009}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285301009}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285301009}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285301009}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285301009}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285301009}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-07 src=/cards/major-07.png?v=2 retry=0", "ts": 1784285304782}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-21 src=/cards/major-21.png?v=2 retry=0", "ts": 1784285305638}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-08", "ts": 1784285306667}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-06", "ts": 1784285307639}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-15 src=/cards/major-15.png?v=2 retry=0", "ts": 1784285308916}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-19", "ts": 1784285310537}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-02 src=/cards/major-02.png?v=2 retry=0", "ts": 1784285312353}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-03 src=/cards/major-03.png?v=2 retry=0", "ts": 1784285313832}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-20", "ts": 1784285314666}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-12 src=/cards/major-12.png?v=2 retry=0", "ts": 1784285315682}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346610}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346611}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285346612}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-02 src=/cards/major-02.png?v=2 retry=0", "ts": 1784285346623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-15 src=/cards/major-15.png?v=2 retry=0", "ts": 1784285346623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-07 src=/cards/major-07.png?v=2 retry=0", "ts": 1784285346623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-12 src=/cards/major-12.png?v=2 retry=0", "ts": 1784285346623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-03 src=/cards/major-03.png?v=2 retry=0", "ts": 1784285346623}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-21 src=/cards/major-21.png?v=2 retry=0", "ts": 1784285346624}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-08 src=/cards/major-08.png?v=2 retry=0", "ts": 1784285346627}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-06 src=/cards/major-06.png?v=2 retry=0", "ts": 1784285346632}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-20 src=/cards/major-20.png?v=2 retry=0", "ts": 1784285346633}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-19 src=/cards/major-19.png?v=2 retry=0", "ts": 1784285346636}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346644}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346644}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346644}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346644}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346644}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346645}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346645}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346645}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346645}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346645}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346645}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285346645}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905784}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905785}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905785}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905785}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905785}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905785}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905785}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905786}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905785}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285905786}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905797}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905797}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905797}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905797}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905797}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905798}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905798}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905798}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905798}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285905798}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905804}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905804}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285905805}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905811}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905811}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905811}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905812}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905812}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905812}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905812}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905812}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905812}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285905812}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905814}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905814}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285905815}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-01 src=/cards/major-01.png?v=2 retry=0", "ts": 1784285906989}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-19", "ts": 1784285907641}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-18", "ts": 1784285908419}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-11", "ts": 1784285909122}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-17", "ts": 1784285909886}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-06 src=/cards/major-06.png?v=2 retry=0", "ts": 1784285910636}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910780}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910780}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910780}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910780}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910781}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910781}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910781}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910781}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910781}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285910781}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910783}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910783}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910783}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910783}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910783}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910784}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910784}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910784}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910784}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285910784}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=major-01 retry=0", "ts": 1784285911985}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-01", "ts": 1784285911987}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285912482}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285912482}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285912492}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285912492}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285912492}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285912492}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285912493}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285912495}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285912496}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285912496}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285912496}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285912496}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285912525}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285912525}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285912525}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285912525}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285912525}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=45ms", "failed": [], "ts": 1784285912526}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285912527}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=44ms", "failed": [], "ts": 1784285912527}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285912531}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912545}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912545}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912545}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912545}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285912545}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912551}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912551}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285912552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912557}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912557}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912557}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912557}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912558}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912558}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912558}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912558}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285912558}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912561}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912561}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912561}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912562}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912562}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912562}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912562}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912562}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285912562}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285913124}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285913125}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285913127}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285913127}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285913128}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285913128}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285913128}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285913128}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285913128}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285913128}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285913129}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285913129}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285913129}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285913129}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285913129}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285913129}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285913130}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285913130}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285913130}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285913130}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285913131}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285913132}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285913133}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285913133}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285913136}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285913136}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285913136}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=12ms", "failed": [], "ts": 1784285913136}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285913136}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=13ms", "failed": [], "ts": 1784285913136}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913161}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913161}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913161}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913161}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913161}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913162}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913163}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913163}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913163}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913163}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913163}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913163}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913173}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913174}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913175}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913183}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913184}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913184}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913189}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913189}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913189}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913189}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913189}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913191}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913191}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913191}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913191}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913191}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913191}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913196}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913197}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913197}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913197}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913197}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285913296}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285913297}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285913299}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285913299}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285913299}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285913299}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285913300}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285913300}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285913300}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285913300}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285913303}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285913304}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285913305}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=10ms", "failed": [], "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=9ms", "failed": [], "ts": 1784285913306}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913332}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913333}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913333}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285913333}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913341}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913341}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913341}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285913341}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913344}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913344}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913344}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285913344}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913347}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913347}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913347}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285913347}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913348}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913349}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913349}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285913349}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285916966}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784285916967}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285916972}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784285916972}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285916972}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784285916972}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285916972}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784285916972}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784285916973}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285916974}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784285916974}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285916974}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784285916974}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285916974}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784285916974}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285916985}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784285916985}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285916985}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784285916985}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784285916995}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=30ms", "failed": [], "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784285916996}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=29ms", "failed": [], "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916997}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916998}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285916999}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917012}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917012}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917012}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917012}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917012}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917013}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917014}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917014}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917014}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917014}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917014}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285917014}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917021}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917022}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917023}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285917024}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917031}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917031}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917031}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917031}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917032}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285917033}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917041}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917042}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917043}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917043}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917043}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285917043}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-07", "ts": 1784285918520}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-04", "ts": 1784285919319}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-00", "ts": 1784285920136}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952229}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952229}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952230}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285952231}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952240}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952240}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952240}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952241}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285952242}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952258}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952258}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952258}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952258}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952258}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952259}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952260}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952260}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952260}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784285952260}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952270}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952270}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952270}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952270}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952270}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952271}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952272}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952272}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952272}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952272}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784285952272}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952276}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285952277}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-18", "ts": 1784285953325}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-14", "ts": 1784285954027}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-09", "ts": 1784285954791}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-10", "ts": 1784285956156}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-15", "ts": 1784285956886}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H6", "msg": "[ip4] timeout fired id=placeholder retry=0", "ts": 1784285957226}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784285957227}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-01", "ts": 1784285957902}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-08", "ts": 1784285958706}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-12", "ts": 1784285959457}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-05", "ts": 1784285960669}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-04", "ts": 1784285961392}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995167}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995167}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995168}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995169}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784285995169}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-08 src=/cards/major-08.png?v=2 retry=0", "ts": 1784285995181}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-09 src=/cards/major-09.png?v=2 retry=0", "ts": 1784285995182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-18 src=/cards/major-18.png?v=2 retry=0", "ts": 1784285995182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-14 src=/cards/major-14.png?v=2 retry=0", "ts": 1784285995182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-04 src=/cards/major-04.png?v=2 retry=0", "ts": 1784285995182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-01 src=/cards/major-01.png?v=2 retry=0", "ts": 1784285995182}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-15 src=/cards/major-15.png?v=2 retry=0", "ts": 1784285995186}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-10 src=/cards/major-10.png?v=2 retry=0", "ts": 1784285995187}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-12 src=/cards/major-12.png?v=2 retry=0", "ts": 1784285995188}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-05 src=/cards/major-05.png?v=2 retry=0", "ts": 1784285995190}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995198}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995198}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995198}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784285995199}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784286335437}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload start", "ts": 1784286335437}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784286335443}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-00 src=/cards/major-00.png?v=2", "ts": 1784286335443}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784286335444}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-01 src=/cards/major-01.png?v=2", "ts": 1784286335444}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784286335446}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-02 src=/cards/major-02.png?v=2", "ts": 1784286335447}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784286335447}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-03 src=/cards/major-03.png?v=2", "ts": 1784286335447}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784286335447}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-04 src=/cards/major-04.png?v=2", "ts": 1784286335447}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784286335448}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-05 src=/cards/major-05.png?v=2", "ts": 1784286335448}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784286335452}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-06 src=/cards/major-06.png?v=2", "ts": 1784286335452}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784286335454}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-08 src=/cards/major-08.png?v=2", "ts": 1784286335454}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784286335455}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-07 src=/cards/major-07.png?v=2", "ts": 1784286335455}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784286335455}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-09 src=/cards/major-09.png?v=2", "ts": 1784286335455}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784286335456}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-10 src=/cards/major-10.png?v=2", "ts": 1784286335456}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784286335470}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-12 src=/cards/major-12.png?v=2", "ts": 1784286335470}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784286335471}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-15 src=/cards/major-15.png?v=2", "ts": 1784286335471}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784286335471}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-11 src=/cards/major-11.png?v=2", "ts": 1784286335471}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784286335472}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-13 src=/cards/major-13.png?v=2", "ts": 1784286335472}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784286335472}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-14 src=/cards/major-14.png?v=2", "ts": 1784286335472}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784286335472}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-16 src=/cards/major-16.png?v=2", "ts": 1784286335472}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784286335473}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-17 src=/cards/major-17.png?v=2", "ts": 1784286335473}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784286335473}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-18 src=/cards/major-18.png?v=2", "ts": 1784286335473}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784286335473}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-20 src=/cards/major-20.png?v=2", "ts": 1784286335474}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784286335474}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-19 src=/cards/major-19.png?v=2", "ts": 1784286335474}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784286335474}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=37ms", "failed": [], "ts": 1784286335474}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip2] preload ok id=major-21 src=/cards/major-21.png?v=2", "ts": 1784286335475}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H1", "msg": "[ip1] preload done ok=22 failed=0 dt=38ms", "failed": [], "ts": 1784286335475}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286369546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286369547}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286369547}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286369547}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286369547}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286369547}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286369552}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286369553}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286369553}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286369553}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286369553}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286369553}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286369558}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286369558}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286369559}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286369559}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286369559}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286369559}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784286369567}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784286369567}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784286369567}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784286369568}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784286369568}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=3 src=?r=3 networkFailed=false", "ts": 1784286369568}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286369569}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286369569}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286369570}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286369570}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286369570}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286369570}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-17 src=/cards/major-17.png?v=2 retry=0", "ts": 1784286370617}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-07 src=/cards/major-07.png?v=2 retry=0", "ts": 1784286371301}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-18 src=/cards/major-18.png?v=2 retry=0", "ts": 1784286372017}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-03 src=/cards/major-03.png?v=2 retry=0", "ts": 1784286373200}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-10", "ts": 1784286373985}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374544}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=placeholder", "ts": 1784286374546}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-08", "ts": 1784286374950}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-11", "ts": 1784286375703}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-02", "ts": 1784286376567}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-01", "ts": 1784286377436}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3] data-url loaded id=major-05", "ts": 1784286378220}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408179}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408179}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408179}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=0 src= networkFailed=false", "ts": 1784286408180}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-17 src=/cards/major-17.png?v=2 retry=0", "ts": 1784286408184}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-07 src=/cards/major-07.png?v=2 retry=0", "ts": 1784286408184}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-18 src=/cards/major-18.png?v=2 retry=0", "ts": 1784286408184}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-02 src=/cards/major-02.png?v=2 retry=0", "ts": 1784286408184}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-11 src=/cards/major-11.png?v=2 retry=0", "ts": 1784286408185}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-01 src=/cards/major-01.png?v=2 retry=0", "ts": 1784286408187}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-03 src=/cards/major-03.png?v=2 retry=0", "ts": 1784286408187}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-05 src=/cards/major-05.png?v=2 retry=0", "ts": 1784286408187}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-10 src=/cards/major-10.png?v=2 retry=0", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H2", "msg": "[ip3] card onLoad id=major-08 src=/cards/major-08.png?v=2 retry=0", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408194}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=1 src=?r=1 networkFailed=false", "ts": 1784286408195}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408206}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}
+{"sessionId": "card-image-load-fail", "runId": "pre-fix", "hypothesisId": "H3", "msg": "[ip3e] card onError id=placeholder attemptNonce=2 src=?r=2 networkFailed=false", "ts": 1784286408207}

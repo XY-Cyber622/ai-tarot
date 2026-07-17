@@ -1,0 +1,54 @@
+.deck {
+  position: relative;
+  display: inline-block;
+  width: 160px;
+  height: 240px;
+  margin: 0 auto;
+  user-select: none;
+}
+
+.interactive {
+  cursor: pointer;
+  transition: transform var(--dur-normal) var(--ease-mystic);
+}
+
+.interactive:hover {
+  transform: translateY(-6px) scale(1.02);
+}
+
+.interactive:focus-visible {
+  outline: 2px solid var(--color-gold-primary);
+  outline-offset: 8px;
+  border-radius: var(--radius-lg);
+}
+
+.disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: center center;
+  transition: transform var(--dur-normal) var(--ease-mystic);
+}
+
+.top {
+  filter: drop-shadow(0 0 16px var(--color-gold-glow));
+}
+
+.glow {
+  position: absolute;
+  inset: -20px;
+  border-radius: var(--radius-2xl);
+  background: radial-gradient(
+    ellipse at center,
+    var(--color-gold-glow) 0%,
+    transparent 70%
+  );
+  z-index: 0;
+  pointer-events: none;
+  animation: glow 3s ease-in-out infinite;
+}
